@@ -1,0 +1,27 @@
+* {
+    color: white;
+    background-color: black;
+}
+
+img {
+    height: auto;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.title{
+    font-weight: bolder;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(2, 248, 2);
+    width: 40%;
+}
+
+.recipe{
+    font-weight: 900;
+    font-size: 16px;
+    color: rgb(36, 36, 247);
+}
